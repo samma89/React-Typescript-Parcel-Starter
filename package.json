@@ -1,0 +1,24 @@
+{
+  "name": "React-Typescript-Parcel-Starter",
+  "version": "1.0.0",
+  "description": "Yet another React, Typescript, Parcel boilerplate project with some extra features",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samma89/React-Typescript-Parcel-Starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samma89/React-Typescript-Parcel-Starter/issues"
+  },
+  "homepage": "https://github.com/samma89/React-Typescript-Parcel-Starter#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.2",
+    "parcel-bundler": "^1.9.7"
+  }
+}
